@@ -1,4 +1,4 @@
-# strava-weather-stamp
+# strava-weathersg-stamp
 
 Add atmospheric conditions, such as temperature and wind speed/direction, to your activities on Strava.
 
@@ -6,7 +6,6 @@ Add atmospheric conditions, such as temperature and wind speed/direction, to you
 
 ## Prerequisites
 
-1. First obtain a [Dark Sky](https://darksky.net/dev) API key.
 2. Next, create a [Strava API application](https://www.strava.com/settings/api) (in your account settings) and take note of your client ID and secret.
 
 ## Installation

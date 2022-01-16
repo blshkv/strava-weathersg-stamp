@@ -1,12 +1,12 @@
 {
-  "name": "strava-weather-stamp",
+  "name": "strava-weathersg-stamp",
   "version": "1.0.0",
   "description": "Add atmospheric conditions, such as temperature and wind speed/direction, to your activities on Strava.",
   "main": "index.js",
   "scripts": {
     "test": "npm test",
     "handshake": "node handshake.js",
-    "stamp": "node index.js"
+    "stamp": "node stamp.js"
   },
   "keywords": [
     "strava",
@@ -19,7 +19,7 @@
   "author": "Michael Richards",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.24.0",
     "open": "^6.3.0"
   }
 }
